@@ -6,4 +6,4 @@ $dbUser = 'root';
 $dbPass = '';
 
 
-$base_url = 'https://php-crud-mvc.test';
+$base_url = 'http://php-crud-mvc.test/';

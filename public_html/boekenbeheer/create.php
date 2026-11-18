@@ -9,6 +9,7 @@
 </head>
 
 <body>
+    <?php Require_once '../header.php'; ?>
     <form action="../../app/http/controllers/boekenController.php" method="POST">
 
         <label for="naam">Boek naam</label>
